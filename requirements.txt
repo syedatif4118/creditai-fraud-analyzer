@@ -1,0 +1,7 @@
+streamlit
+pandas
+pydantic
+paddleocr
+paddlepaddle
+reportlab
+ollama
